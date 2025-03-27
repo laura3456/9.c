@@ -1,21 +1,11 @@
-h1 {
+title {
     margin: auto;
-    width: 50%;
+    width: 100%;
+    text-align: center;
 }
 
 button{
   margin: auto;
   width: 100%;
    padding: 10px;
-}
-
-H2 {
-      margin: auto;
-      width: 100%;
-       padding: 10px;
-
-}
-
-moto{
-    text-align: center;
 }
