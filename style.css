@@ -1,6 +1,6 @@
 .title {
     text-align: left; 
-    margin-left: 15%;
+    margin-right: 30%;
     font-size:40px;
     font-family: "Anonymous Pro", monospace;
     font-weight: bold;
@@ -46,3 +46,8 @@ button{
     color:#D87434;
 }
 
+img {
+     float: right;
+    margin-bottom: 100px;
+
+}
