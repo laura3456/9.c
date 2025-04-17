@@ -30,3 +30,19 @@ button{
     font-size:60px;
     font-family: "Anonymous Pro", monospace;
 }
+
+.top {
+
+    text-align: center;
+    font-size:60px;
+    font-family: "Anonymous Pro", monospace;  
+    color:#bf6731;
+}
+
+.under{
+    text-align: center;
+    font-size:30px;
+    font-family: "Anonymous Pro", monospace;  
+    color:#D87434;
+}
+
