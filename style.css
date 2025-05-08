@@ -31,8 +31,7 @@ button{
     font-family: "Anonymous Pro", monospace;
 }
 
-.top {
-
+.top {                                                                                                 
     text-align: center;
     font-size:60px;
     font-family: "Anonymous Pro", monospace;  
@@ -49,5 +48,13 @@ button{
 img {
      float: right;
     margin-bottom: 100px;
+
+}                   
+
+image{
+    position: absolute;
+    width: 200px;
+    height: 270px;
+    border-radius: 30px;
 
 }
