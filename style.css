@@ -49,4 +49,12 @@ img {
      float: right;
     margin-bottom: 100px;
 
-}                            
+}                   
+
+image{
+    position: absolute;
+    width: 200px;
+    height: 270px;
+    border-radius: 30px;
+
+}
