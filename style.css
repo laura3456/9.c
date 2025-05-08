@@ -35,7 +35,7 @@ button {
     cursor: pointer;
     border-radius: 12px;
     color:#ffffff;
-    background-color:#D87434;
+    background-color:#EBAB72;
 }
 
 
@@ -43,12 +43,13 @@ button {
 .moto {
     text-align: center;
     font-size:50px;
-    margin-top:50px;
-    margin-left:50px;
     padding: 10px 20px;
     width: auto;
     font-family: "Anonymous Pro", monospace;
-     color:#4f3c30;
+    color:#4f3c30;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top:50px;
     }
 }
 
@@ -85,27 +86,35 @@ image{
     border-radius: 30px;
 }
 
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 40px;
-    background-color: #f5d6c1;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
 nav a {
-    color: #4f4640;
+    color: #000000;
     font-size: 18px;
+    font-weight:bold;
     font-family: "Anonymous Pro", monospace;
     margin: 15px;
 }
 
 .logo {
-    color: #0f0c0b;
-    font-size: 24px;
+    color: #000000;
+    font-size:25px;
     font-weight: bold;
     font-family: "Anonymous Pro", monospace;
     margin-right: 40px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #feba90;
+    border-radius: auto;
+    opacity: 0.5;
+}
+.text {
+    text-align: center;
+    font-size:25px;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top:50px;
 }
