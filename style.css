@@ -24,6 +24,8 @@ h2{
     justify-content: center;
     align-items: center;
     margin-top: 50px;
+   
+    
 }
 
 button {
@@ -31,21 +33,24 @@ button {
     padding: 30px 40px;
     width: auto;
     cursor: pointer;
+    border-radius: 12px;
+    color:#ffffff;
+    background-color:#D87434;
 }
 
 
 
 .moto {
     text-align: center;
-    margin-top: 50px;
+    font-size:50px;
+    margin-top:50px;
+    margin-left:50px;
     padding: 10px 20px;
     width: auto;
-   
+    font-family: "Anonymous Pro", monospace;
+     color:#4f3c30;
+    }
 }
-
-
-
-
 
 .kontakti {
     text-align: left;
@@ -88,14 +93,14 @@ nav {
 }
 
 nav a {
-    color: #D87434;
+    color: #4f4640;
     font-size: 18px;
     font-family: "Anonymous Pro", monospace;
     margin: 15px;
 }
 
 .logo {
-    color: #b36d42;
+    color: #0f0c0b;
     font-size: 24px;
     font-weight: bold;
     font-family: "Anonymous Pro", monospace;
