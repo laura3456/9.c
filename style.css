@@ -19,7 +19,7 @@ h2{
 }
 
 
-.button-container {
+.buttonbox {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -88,10 +88,15 @@ nav {
 }
 
 nav a {
-    text-decoration: none;
     color: #D87434;
     font-size: 18px;
     font-family: "Anonymous Pro", monospace;
-    margin: 0 15px;
+    margin:15px;
 }
 
+logo a{
+    color: #b36d42;
+    font-size: 18px;
+    font-family: "Anonymous Pro", monospace;
+    margin:15px;  
+}
