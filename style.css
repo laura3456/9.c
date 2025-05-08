@@ -23,9 +23,15 @@ h2{
     text-align: center;
     margin-top: 50px;
     padding: 30px 50px;
-    width:auto;
+    width: auto;
     cursor: pointer;
+}
 
+button {
+    padding: 20px 40px;
+    font-size: 24px;
+    border-radius: 8px;
+    width: 250px;
 }
 
 .moto {
