@@ -1,19 +1,21 @@
 .title {
-    text-align: left; 
-    margin-right: 30%;
-    font-size:40px;
+    text-align: center;
+    font-size:25px;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top:50px;
+    margin-bottom:50px;
     font-family: "Anonymous Pro", monospace;
-    font-weight: bold;
     color:#D87434;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
 }
 
 h2{
     text-align: center;
-    margin-right:40%;
-    margin-bottom:20%;
-    font-size:28px;
+    font-size:25px;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top:50px;
+    margin-bottom:50px;
     font-family: "Anonymous Pro", monospace;
     color:#D87434;
 }
@@ -67,9 +69,13 @@ button {
 }
 
 .under{
-    text-align: left;
-    font-size:30px;
-    font-family: "Anonymous Pro", monospace;  
+    text-align: center;
+    font-size:25px;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top:50px;
+    margin-bottom:50px;
+    font-family: "Anonymous Pro", monospace;
     color:#D87434;
 }
 
