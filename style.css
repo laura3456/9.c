@@ -19,16 +19,26 @@ h2{
 }
 
 
-.button-container {
+.button {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
+    padding: 30px 50px;
+    width:auto;
+    cursor: pointer;
+
 }
 
-button {
+.moto {
+    text-align: center;
+    margin-top: 50px;
     padding: 10px 20px;
     width: auto;
-    cursor: pointer;
+   
 }
+
+
+
+
 
 .kontakti {
     text-align: left;
