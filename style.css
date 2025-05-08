@@ -19,10 +19,15 @@ h2{
 }
 
 
-button{
-  margin: auto;
-  width: 100%;
-padding: 10px;
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    width: auto;
+    cursor: pointer;
 }
 
 .kontakti {
