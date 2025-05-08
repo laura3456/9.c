@@ -56,9 +56,14 @@ button {
 }
 
 .kontakti {
-    text-align: left;
-    font-size:60px;
+    text-align: center;
+    font-size:25px;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top:50px;
+    margin-bottom:50px;
     font-family: "Anonymous Pro", monospace;
+    color:#D87434;
 }
 
 .top {                                                                                                 
