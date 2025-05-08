@@ -91,12 +91,13 @@ nav a {
     color: #D87434;
     font-size: 18px;
     font-family: "Anonymous Pro", monospace;
-    margin:15px;
+    margin: 15px;
 }
 
-logo a{
+.logo {
     color: #b36d42;
-    font-size: 18px;
+    font-size: 24px;
+    font-weight: bold;
     font-family: "Anonymous Pro", monospace;
-    margin:15px;  
+    margin-right: 40px;
 }
