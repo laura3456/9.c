@@ -90,6 +90,9 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
+    background-color: #f5d6c1;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 nav a {
